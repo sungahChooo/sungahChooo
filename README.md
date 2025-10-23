@@ -1,9 +1,10 @@
 
 ## Hi, I'm Sungah Cho 😊
+I'm a passionate **Front-End Developer** who loves creating intuitive and user-friendly web experiences.  
 
 ## Experience
 - Hongik University French Language and Literature & Computer Engineering (2020.03 ~ )
-- 신촌 연합 IT 창업 학회 CEOS • 22 FE (2025.09 ~ )
+- 신촌 연합 IT 창업 학회 CEOS 22 FE (2025.09 ~ )
   
 ## Project
 - AI 기반 피부건강 관리 서비스 Acne Log 
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
@@ -52,8 +54,8 @@
 
 
 ### Learning / Interested In
-<div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/rest%20api-02569B?style=for-the-badge&logo=postman&logoColor=white">
-</div>
-
+- API Integration (Axios, Fetch)
+- Responsive Web Design
+- Performance Optimization
+- Next.js
+- Zustand
